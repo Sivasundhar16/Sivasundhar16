@@ -70,9 +70,12 @@
 <br/>
 
 <div align="center">
-<a href="https://wa.me/919962910731" target="_blank">
-  <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Me" />
-</a>
+  <a href="https://wa.me/919962910731" target="_blank">
+    <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Me" />
+  </a>
+  <a href="https://instagram.com/stark_tony16" target="_blank" style="margin-left: 10px;">
+    <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Profile" />
+  </a>
 </div>
 
 <br/>
