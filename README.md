@@ -80,6 +80,6 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
     <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Profile" />
   </a>
   <a href="mailto:vssiva18@gmail.com" target="_blank">
-    <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Icon.svg" alt="Email Me" />
+    <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email Me" />
   </a>
 </div>
