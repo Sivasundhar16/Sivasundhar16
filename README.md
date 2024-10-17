@@ -16,7 +16,7 @@
 I am a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 ## 📜 Resume
-- **B.Tech** from Anna University, GPA: 7.9
+- **BE Computer Science And Engineering** from Anna University, GPA: 7.9
 
 ## 🔗 Coding Handles
 - [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/Sivasundhar16)
@@ -56,6 +56,7 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
   <img src="https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night" alt="Activity Graph"/>
 </div>
 
 ## 🏆 LeetCode
