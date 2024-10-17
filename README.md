@@ -1,14 +1,18 @@
 <h1 align="center">
   Hi <img src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/Hi.gif" width="28px"/>, 
-  I'm <span style="animation: color-change 3s infinite; 
-                   @keyframes color-change { 
-                     0% { color: #ff5733; } 
-                     25% { color: #33ff57; } 
-                     50% { color: #3357ff; } 
-                     75% { color: #ff33a6; } 
-                     100% { color: #ff5733; } 
-                   }">Sivasundhar</span>
+  I'm <span style="animation: color-change 3s infinite;">Sivasundhar</span>
 </h1>
+
+<style>
+@keyframes color-change {
+  0% { color: #ff5733; }
+  25% { color: #33ff57; }
+  50% { color: #3357ff; }
+  75% { color: #ff33a6; }
+  100% { color: #ff5733; }
+}
+</style>
+
 
 <h2 align="center">
   Passionate Full Stack Developer
