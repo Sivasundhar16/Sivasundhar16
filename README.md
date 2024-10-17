@@ -1,42 +1,90 @@
-![👋 Hi, my name is Sivasundhar](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
+<h1 align="center">Hi <img src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/Hi.gif" width="28px"/>, I'm Sivasundhar</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sivasundhar16&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Passionate Full Stack Developer
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div> 
 
-![Profile views](https://komarev.com/ghpvc/?username=Sivasundhar16&label=Profile%20views&color=0e75b6&style=flat)
+## <img align='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Sivasundhar
-      </h1>
-    </summary>
-  </ul>
+I am a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I specialize in **MERN, Android Development, and Chatbot Development**, continuously learning to improve user experiences. I thrive on solving challenging problems and creating innovative solutions.
+
+<details>
+ <summary>
+    <h2> 
+      <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/about.png" width="37" /> 
+    Resume
+    </h2>
+</summary>
+
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-Anna%20University-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-7.9-EFEEE9?style=for-the-badge"></span>
+ </details>
+
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  - **Passionate Full Stack Developer**
+ </details>
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+
+  #### <a href="https://github.com/Sivasundhar16/NextWatch">NextWatch - Netflix Clone</a>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  - Implemented a Netflix-like experience using MERN stack.
+  
+  #### <a href="https://github.com/Sivasundhar16/EmployeeManagementSystem">Employee Management System</a>
+  <span><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></span>
+  - Built a system to manage employee records efficiently.
+
+  #### <a href="https://github.com/Sivasundhar16/LinkedGrow">LinkedGrow - Online Job Search Platform</a>
+  <span><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"></span>
+  - Created an online platform to help users search for jobs and connect with employers.
+</details>
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night)
+  </div>
+</details>
+
+### Leetcode
+<div align="center">
+  ![LeetCode Stats](https://leetcode.card.workers.dev/Sivasundhar16?theme=auto&font=baloo&extension=null)
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.instagram.com/stark_tony16" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://www.linkedin.com/in/siva02" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://twitter.com/SivaSundhar17" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 16px"></a></p>
+<details>
+  <summary><h2> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:vssiva18@gmail.com">
+      <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 
- **<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-
- **<h3 align="center">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="Bootstrap" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="28" alt="Vite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="28" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28" alt="AWS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="28" alt="Next.js" style="margin-right: 4px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Sivasundhar16&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sivasundhar16&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sivasundhar16&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-</p>
-
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  </div>
+</details>
