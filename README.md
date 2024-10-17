@@ -53,11 +53,12 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false" alt="Streak Stats" style="margin-bottom: 20px;"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" style="margin-bottom: 20px;"/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 20px 0;"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false" alt="Streak Stats" style="margin: 20px 0;"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" style="margin: 20px 0;"/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night" alt="Activity Graph" style="margin: 20px 0;"/>
 </div>
+
 
 
 ## 🏆 LeetCode
