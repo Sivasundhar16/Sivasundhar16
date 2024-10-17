@@ -36,9 +36,11 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
 </details>
 
 <details>
@@ -55,22 +57,17 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
   #### <a href="https://github.com/Sivasundhar16/LinkedGrow">LinkedGrow - Online Job Search Platform</a>
   <span><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"></span>
   - Created an online platform to help users search for jobs and connect with employers.
+
 </details>
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night)
-  </div>
-</details>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night)
 
 ### Leetcode
-<div align="center">
-  ![LeetCode Stats](https://leetcode.card.workers.dev/Sivasundhar16?theme=auto&font=baloo&extension=null)
-</div>
+![LeetCode Stats](https://leetcode.card.workers.dev/Sivasundhar16?theme=auto&font=baloo&extension=null)
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
@@ -84,7 +81,5 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 
 <details>
   <summary>Click to see a random joke</summary>
-  <div align="center">
-    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  </div>
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 </details>
