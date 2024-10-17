@@ -61,13 +61,24 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 </details>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night)
+  
+</div>
 
 ### Leetcode
+<div align="center">
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/Sivasundhar16?theme=auto&font=baloo&extension=null)
+
+</div>
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/Sivasundhar16/Sivasundhar16/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
@@ -81,5 +92,9 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 
 <details>
   <summary>Click to see a random joke</summary>
+  <div align="center">
+
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
 </details>
