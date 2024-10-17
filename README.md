@@ -72,5 +72,14 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 </div>
 
 ## 📧 Contact Me
-- Email: [vssiva18@gmail.com](mailto:vssiva18@gmail.com)
-- LinkedIn: [siva02](https://www.linkedin.com/in/siva02/)
+<div align="center">
+  <a href="https://wa.me/919962910731" target="_blank">
+    <img height="64" style="border:0px;height:64px; margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Me" />
+  </a>
+  <a href="https://instagram.com/stark_tony16" target="_blank" style="margin-right: 20px;">
+    <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Profile" />
+  </a>
+  <a href="mailto:vssiva18@gmail.com" target="_blank">
+    <img height="64" style="border:0px;height:64px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Icon.svg" alt="Email Me" />
+  </a>
+</div>
