@@ -53,12 +53,24 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 - A job search platform connecting job seekers with recruiters.
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 20px 0;"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false" alt="Streak Stats" style="margin: 20px 0;"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" style="margin: 20px 0;"/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night" alt="Activity Graph" style="margin: 20px 0;"/>
+<div align="center" style="padding: 20px 0;">
+  <div style="margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sivasundhar16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </div>
+  
+  <div style="margin: 20px 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasundhar16&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
+  </div>
+  
+  <div style="margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasundhar16&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+  </div>
+  
+  <div style="margin: 20px 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivasundhar16&theme=tokyo-night" alt="Activity Graph"/>
+  </div>
 </div>
+
 
 
 
