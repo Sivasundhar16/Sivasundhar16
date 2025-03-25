@@ -79,10 +79,29 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
   <img src="https://leetcode.card.workers.dev/Sivasundhar16?theme=auto&font=baloo" alt="LeetCode Stats"/>
 </div>
 
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Sivasundhar16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+
+
 ## 🐱‍👤 Random Joke
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card"/>
 </div>
+
+##Snake moving
+<div>
+  <br>
+   <p align="center">
+   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ </p>
+
+</div>
+
 
 ## 📧 Contact Me
 <div align="center">
