@@ -76,7 +76,7 @@ I am a passionate Full Stack Developer with a strong foundation in both frontend
 
 ## 🏆 LeetCode
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/Sivasundhar16?theme=auto&font=baloo" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Sivasundhar16?theme=dark&font=baloo" alt="LeetCode Stats"/>
 </div>
 
 ## 🔝 Top Contributed Repo
